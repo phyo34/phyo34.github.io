@@ -1,0 +1,122 @@
+body{
+			
+			background-image:url("final2.jpeg");
+			background-size: cover;
+			background-repeat: no-repeat;
+			color:white;
+			}
+#logo {
+			padding:10px;
+			float:left;
+		}
+
+#header {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 80px; 
+			overflow: hidden; 
+			background-color: white;
+			font-size: 30px;
+			color:black;	
+		
+			
+			
+	
+}
+
+			
+		
+	
+main {
+	position: fixed;
+	top: 100px;
+	left: 0px; 
+	right: 10px;
+	bottom: 0;
+	overflow: auto;
+	opacity:1;
+	text-align:center;
+	font-size: 80 px;
+	
+
+	
+	}
+	
+	h1{
+		font-family:Georgia Header;
+		text-align: center;
+		font-size: 3.6em;
+		color: black;
+		  font-style: bold;
+		  font-style: italic;
+		  
+
+		
+	}
+
+	#one{
+	font-family: Arial;
+	text-align: center;
+	color: black;
+	font-size: 14px;
+	font-style: normal;
+}
+
+#two{
+	font-family: Arial;
+	text-align: center;
+	color: black;
+	font-size: 14px;
+	font-style: normal;
+}
+
+#three{
+	font-family: Arial;
+	text-align: center;
+	color: black;
+	font-size: 20px;
+	font-style: normal;
+}
+
+
+
+
+	
+		topnav {
+   		 overflow: hidden;
+    
+		}
+		
+		.topnav a {
+   		 float: right;
+    		display:block;
+    		color: black;
+    		text-align: center;
+   		 padding: 20px 28px;
+    		text-decoration: none;
+		}
+
+	
+		
+				
+	
+	a.download{
+    text-decoration: none;
+    color: #fff;
+    background: #B0B0B0;
+    padding: 8px 10px;
+    border-radius: 3px;
+    display: block;
+    width: 150px;
+    margin: 100px auto 0 auto;
+    text-align: center;
+    z-index: 100;
+	  font-family: Georgia Header;
+	  font-size: .6em;
+
+    opacity: .96;
+}
+
+
