@@ -1,0 +1,10 @@
+C:\Users\gracedavis\SKINSURANCE\SKINSURANCE\bin\Release\SKINSURANCE.exe.config
+C:\Users\gracedavis\SKINSURANCE\SKINSURANCE\bin\Release\SKINSURANCE.exe
+C:\Users\gracedavis\SKINSURANCE\SKINSURANCE\bin\Release\SKINSURANCE.pdb
+C:\Users\gracedavis\SKINSURANCE\SKINSURANCE\obj\Release\SKINSURANCE.csprojAssemblyReference.cache
+C:\Users\gracedavis\SKINSURANCE\SKINSURANCE\obj\Release\SKINSURANCE.Properties.Resources.resources
+C:\Users\gracedavis\SKINSURANCE\SKINSURANCE\obj\Release\SKINSURANCE.UserInterface.resources
+C:\Users\gracedavis\SKINSURANCE\SKINSURANCE\obj\Release\SKINSURANCE.csproj.GenerateResource.cache
+C:\Users\gracedavis\SKINSURANCE\SKINSURANCE\obj\Release\SKINSURANCE.csproj.CoreCompileInputs.cache
+C:\Users\gracedavis\SKINSURANCE\SKINSURANCE\obj\Release\SKINSURANCE.exe
+C:\Users\gracedavis\SKINSURANCE\SKINSURANCE\obj\Release\SKINSURANCE.pdb
